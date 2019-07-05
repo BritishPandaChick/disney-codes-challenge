@@ -18,11 +18,11 @@ The Disney Codes Challenge is a 57 day coding challenge. Each day you'll code a 
 ## Let's make some magic! How do I join?
 1. Read the Rules and FAQ pages.
 2. Tweet your commitment to the challenge. Don't forget to the use the hash tag #DisneyCodesChallenge. Bonus points if you say what Disney character you would want to code with.
-3. Fork this repo. If you like this repo, make sure you click the &#9733 at the top right of the page.
+3. Fork this repo. If you like this repo, make sure you click the &#9733; at the top right of the page.
 4. Start coding every day for 23 minutes. At the end of each day, write a brief summary of the progress you made on the log page.
 5. Tweet about your progress each day using the #DisneyCodesChallenge hash tag.
 
 ## Note
 * The Disney Codes Challenge is not affiliated or associated with the Walt Disney Company. I do not work for Disney or am paid by Disney for this challenge.
 * If you have any questions or ideas for the Disney Codes Challenge, feel free to reach out to me on Twitter. You can find me at [@TheOriginalBPC](http://twitter.com/TheOriginalBPC).
-* Love this challenge? Click the &#9733 at the top right of the page.
+* Love this challenge? Click the &#9733; at the top right of the page.
