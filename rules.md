@@ -11,7 +11,7 @@ Start here before you begin this challenge. You can read all the rules for the c
 
 2. I will code for 23 minutes each day during the challenge.
 
-3. I will update the log page so others can read my progress and see what I'm buiilding.
+3. I will update the log page so others can read my progress and see what I'm building.
 
 4. I will tweet my progress every day using the #DisneyCodesChallenge hash tag.
 
